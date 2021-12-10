@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server2", "author": "typicode2" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 2 }
+  ],
+  "users":[
+    {"id":1,"username":"Manjunath Kalburgi"},
+    {"id":1,"username":"Kalburgi"}
+  ],
+  "profile": { "name": "typicode" }
+}
